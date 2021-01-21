@@ -6,3 +6,4 @@ Flask-SQLAlchemy
 marshmallow
 marshmallow-sqlalchemy
 uwsgi
+psycopg2
